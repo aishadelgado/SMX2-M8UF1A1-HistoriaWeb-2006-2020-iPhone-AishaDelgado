@@ -53,7 +53,10 @@ Finalmente, en enero de 2007 fue presentado a todo el mundo y, como con la gente
 ### Su sistema operativo
 ---
 
-Texto
+El sistema operativo que utilizan los iPhone y todo lo relacionado con Apple, como los **Mac** e **iPad**, se denomina **iOS**; que proviene de **iPhone Operative System**.
+
+iOs se trata de un sistema cerrado que no se puede utilizar en ningún 
+
 <div id='id3' />
 
 ### Sus modelos
