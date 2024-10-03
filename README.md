@@ -15,6 +15,8 @@ El **iPhone**, a día de hoy, sigue siendo de las marcas de móvil más conocida
 
 **3. [Sus modelos](#id3)**
 
+<div id='id1' />
+
 ### Historia
 ---
 
