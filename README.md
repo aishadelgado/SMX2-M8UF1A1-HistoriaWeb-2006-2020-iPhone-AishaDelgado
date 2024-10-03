@@ -68,3 +68,16 @@ iOs se trata de un sistema cerrado que no se puede utilizar en ningún dispositi
 |Modelo|Año de presentación|Capacidad|Foto|
 |---|:---:|---|---|
 |iPhone|2007|4, 8 o 16 GB|![iPhone](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone.jpg)|
+|iPhone 3G|2008|8 o 16 GB|![iPhone 3](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone3.jpg)|
+|iPhone 4|2010|8, 16 o 32 GB|![iPhone 4](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone4.jpg)|
+|iPhone 5|2012|16, 32 o 64 GB|![iPhone 5](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone5.jpg)|
+|iPhone 6|2014|16, 32, 64 o 128 GB|![iPhone 6](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone6.jpg)|
+|iPhone SE|2016|16, 32, 64 o 128 GB|![iPhone SE](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphonese.jpg)|
+|iPhone 7|2016|32, 128 o 256 GB|![iPhone 7](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone7.jpg)|
+|iPhone 8|2017|64, 128 o 256 GB|![iPhone 8](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone8.jpg)|
+|iPhone X|2017|64 o 256 GB|![iPhone X](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphonex.jpg)|
+|iPhone 11|2019|64, 128 o 256 GB|![iPhone 11](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone11.jpg)|
+|iPhone 12|2020|64, 128 o 256 GB|![iPhone 12](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone12.png)|
+|iPhone 13|2021|128, 256 o 512 GB|![iPhone 13](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone13.png)|
+|iPhone 14|2022|128, 256 o 512 GB|![iPhone 14](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone14.png)|
+|iPhone 15|2023|128, 256 o 512 GB|![iPhone 15](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone15.png)|
