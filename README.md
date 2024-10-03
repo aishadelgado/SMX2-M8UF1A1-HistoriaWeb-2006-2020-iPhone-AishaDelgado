@@ -57,8 +57,11 @@ El sistema operativo que utilizan los iPhone y todo lo relacionado con Apple, co
 
 iOs se trata de un sistema cerrado que no se puede utilizar en ningún dispositivo salvo en aparatos de marca Apple. La diferencia más vista con Android es que el sistema operativo de Google puede instalarse en un sinfin de teléfonos de todas las marca, mientras que iOS es un sistema que solamente está instalado en los dispositivos Apple.
 
+<p align="center">
+<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iOS.png" width="50%">
+</p>
+
 <div id='id3' />
 
 ### Sus modelos
 ---
-
