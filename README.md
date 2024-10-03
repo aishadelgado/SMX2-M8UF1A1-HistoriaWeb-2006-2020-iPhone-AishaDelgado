@@ -51,10 +51,12 @@ Finalmente, en enero de 2007 fue presentado a todo el mundo y, como con la gente
 <div id='id2' />
 
 ### Su sistema operativo
+---
 
 Texto
 <div id='id3' />
 
 ### Sus modelos
+---
 
 Hola
