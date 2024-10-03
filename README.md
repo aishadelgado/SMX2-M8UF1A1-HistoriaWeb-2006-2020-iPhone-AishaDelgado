@@ -7,7 +7,9 @@
 
 ### Historia
 
+<p align="center">
 <img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/SteveJobsiphone.jpg" width="50%">
+</p>
 
 Texto del primer apartado
 <div id='id2' />
