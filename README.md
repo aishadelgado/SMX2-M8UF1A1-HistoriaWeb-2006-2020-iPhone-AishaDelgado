@@ -16,6 +16,9 @@ El **iPhone**, a día de hoy, sigue siendo de las marcas de móvil más conocida
 **3. [Su sistema operativo](#id3)**
 <div id='id1' />
 
+**4. [Sus modelos](#id4)**
+<div id='id1' />
+
 ### Historia
 ---
 
@@ -42,7 +45,7 @@ Desde finales de 2005 hasta el último mes de 2006, Apple tenía un gran problem
 - **Sistema operativo**
 - **Radiación**
 
-Trabajaban bajo presión; incluso tuvieron que retrsar la salida del sistema operativo para centrar sus recursos en el teléfono, que claramente a sus seguidores y consumidores no iba a contentar y que sería imperdonable si cualquier cosa salía mal. A mitad de diciembre del 2006, Steve Jobs mostró por fin el iPhone a la gente de Cingular y todo el mundo quedó encantado.
+Trabajaban bajo presión; incluso tuvieron que retrasar la salida del sistema operativo para centrar sus recursos en el teléfono, que claramente a sus seguidores y consumidores no iba a contentar y que sería imperdonable si cualquier cosa salía mal. A mitad de diciembre del 2006, Steve Jobs mostró por fin el iPhone a la gente de Cingular y todo el mundo quedó encantado.
 
 <p align="center">
 <img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone.jpg" width="50%">
@@ -59,3 +62,6 @@ Texto del segundo apartado
 ### Su sistema operativo
 
 Texto
+<div id='id4' />
+
+Hola
