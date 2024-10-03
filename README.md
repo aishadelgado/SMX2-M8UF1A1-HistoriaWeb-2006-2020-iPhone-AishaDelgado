@@ -1,8 +1,8 @@
 # iPhone
 ## **Índice**
-1. [Historia](#id1)
-2. [¿Qué es?](#id2)
-3. [Su sistema operativo](#id3)
+**1. [Historia](#id1)**
+**2. [¿Qué es?](#id2)**
+**3. [Su sistema operativo](#id3)**
 <div id='id1' />
 
 ### Historia
