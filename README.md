@@ -55,11 +55,10 @@ Finalmente, en enero de 2007 fue presentado a todo el mundo y, como con la gente
 
 El sistema operativo que utilizan los iPhone y todo lo relacionado con Apple, como los **Mac** e **iPad**, se denomina **iOS**; que proviene de **iPhone Operative System**.
 
-iOs se trata de un sistema cerrado que no se puede utilizar en ningún 
+iOs se trata de un sistema cerrado que no se puede utilizar en ningún dispositivo salvo en aparatos de marca Apple. La diferencia más vista con Android es que el sistema operativo de Google puede instalarse en un sinfin de teléfonos de todas las marca, mientras que iOS es un sistema que solamente está instalado en los dispositivos Apple.
 
 <div id='id3' />
 
 ### Sus modelos
 ---
 
-Hola
