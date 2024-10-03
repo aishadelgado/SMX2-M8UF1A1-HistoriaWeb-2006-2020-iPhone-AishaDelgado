@@ -65,3 +65,6 @@ iOs se trata de un sistema cerrado que no se puede utilizar en ningún dispositi
 
 ### Sus modelos
 ---
+|Modelo|Año de presentación|Capacidad|Foto|
+|---|:---:|---|---|
+|iPhone|2007|4, 8 o 16 GB|![iPhone](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2007-iPhone-AishaDelgado/blob/main/iphone.jpg)|
