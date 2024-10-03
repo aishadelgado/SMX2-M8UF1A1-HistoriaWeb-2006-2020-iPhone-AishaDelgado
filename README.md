@@ -30,16 +30,18 @@ Para coneguir aquello, Apple se juntó con Motorola y Cingular, pues ambos habí
 Empezaron mostrando un móvil para tantear el mercado que tenían, **el Motorola ROKR**, por desgracia para los tres, este artefacto terminó siendo un desastre. No guardaba más de 1.000 canciones, el software no agradaba y no podían comprar canciones directamente de _iTunes_, por lo que no conseguían grandes ganancias.
 
 En 2005, Apple decidió dejar de lado a Motorola y centrarse, junto a Cingular, en crear ellos ese tan deseado producto. Para convencer a Cingular de trabajar junto a ellos, Apple les contó los avances que sus ingenieros habían logrado. Tenían procesadores más rápidos, y si lograban desarrollar un sistema operativo que llevara parte del espíritu del ordenador personal al teléfono, podrían crear el **producto ideal**:
-- Teléfono
-- Ordenador
-- Reproductor de medios
+- **Teléfono**
+- **Ordenador**
+- **Reproductor de medios**
+
 Todo eso en el mismo smartphone.
 Ya no solo esas tres cosas, sino que también tenían un as bajo su manga: la **pantalla multitáctil**.
 
 Desde finales de 2005 hasta el último mes de 2006, Apple tenía un gran problema por parte de sus ingenieros: iban a contrareloj para tener el equipo listo. Era el proyecto **Purple 2**, que ahora todos conocemos como iPhone, tenían muchos frentes que cerrar:
-- Autonomía
-- Sistema operativo
-- Radiación
+- **Autonomía**
+- **Sistema operativo**
+- **Radiación**
+
 Trabajaban bajo presión; incluso tuvieron que retrsar la salida del sistema operativo para centrar sus recursos en el teléfono, que claramente a sus seguidores y consumidores no iba a contentar y que sería imperdonable si cualquier cosa salía mal. A mitad de diciembre del 2006, Steve Jobs mostró por fin el iPhone a la gente de Cingular y todo el mundo quedó encantado.
 
 <p align="center">
