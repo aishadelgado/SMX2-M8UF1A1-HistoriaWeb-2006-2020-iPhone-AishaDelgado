@@ -11,13 +11,9 @@ El **iPhone**, a día de hoy, sigue siendo de las marcas de móvil más conocida
 ## **Índice**
 **1. [Historia](#id1)**
 
-**2. [¿Qué es?](#id2)**
+**2. [Su sistema operativo](#id2)**
 
-**3. [Su sistema operativo](#id3)**
-<div id='id1' />
-
-**4. [Sus modelos](#id4)**
-<div id='id1' />
+**3. [Sus modelos](#id3)**
 
 ### Historia
 ---
@@ -54,15 +50,10 @@ Trabajaban bajo presión; incluso tuvieron que retrasar la salida del sistema op
 Finalmente, en enero de 2007 fue presentado a todo el mundo y, como con la gente de Cingular, todo el mundo quedó maravillado por el smartphone recién creado por Apple. Sin embargo, no fue hasta el 29 de junio de 2007 cuando se pondría en venta en EEUU.
 <div id='id2' />
 
-### ¿Qué es?
-
-Texto del segundo apartado
-<div id='id3' />
-
 ### Su sistema operativo
 
 Texto
-<div id='id4' />
+<div id='id3' />
 
 ### Sus modelos
 
