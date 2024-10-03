@@ -3,10 +3,10 @@
 El **iPhone**, a día de hoy, sigue siendo de las marcas de móvil más conocida y vendida desde que se estrenó por primera vez en 2007 con el *"iPhone original"*. Los iPhone son el producto más vendido por la compañía fundada por *Steve Jobs*, **Apple**. Han llegado a lanzar más de <u>40 versiones</u> de este telefono móvil.
 > [!NOTE]
 > Aunque los iPhone sean el producto más vendido por Apple, no significa que sean su único producto, pues tienen varios más, como lo pueden ser:
-> - Mac
-> - iPod
-> - Airpods
-> - iPad
+> - **Mac**, sus ordenadores y portatiles.
+> - **iPod**, sus reproductores de música.
+> - **Airpods**, sus auriculares.
+> - **iPad**, sus tabletas.
 
 ## **Índice**
 **1. [Historia](#id1)**
